@@ -1,5 +1,5 @@
 # PWC_Diversity & inclusion_powerbi
-Call Centre Trends Dashboard
+Diversity & Inclusion Dashboard
 
 ## Overview
 This repository contains the Power BI dashboard created during the PwC Forage Power BI Virtual Internship. The internship provided an opportunity to develop practical skills in data visualization and analysis using Power BI, focusing on real-world business scenarios. This dashboard helps track gender balance and other diversity metrics within the organization, providing insights to improve inclusion strategies.
